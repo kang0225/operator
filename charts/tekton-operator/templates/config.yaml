@@ -188,3 +188,4 @@ data:
     # charge.  If metrics.backend-destination is not Stackdriver, this is
     # ignored.
     metrics.allow-stackdriver-custom-metrics: "false"
+{{ if }}
